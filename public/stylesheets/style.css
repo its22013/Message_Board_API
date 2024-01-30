@@ -1,6 +1,14 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+  font-size: 64px;
+  font-family: "Abyssinica SIL", serif;
 }
 
 a {
